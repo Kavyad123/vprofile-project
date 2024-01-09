@@ -13,7 +13,7 @@ pipeline {
 		CENTRAL_REPO = 'kavya123-maven-dependencies'
 		NEXUSIP = '172.31.89.241'
 		NEXUSPORT = '8081'
-		NEXUS_GRP_REPO = 'kavya123-maven-group'
+		NEXUS_GRP_REPO = 'kavya123-maven-grp'
         NEXUS_LOGIN = 'nexuslogin'
     }
 
